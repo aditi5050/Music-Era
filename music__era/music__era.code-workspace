@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../covers"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "music__era",
+		"liveServer.settings.port": 5501
+	}
+}
